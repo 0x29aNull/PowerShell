@@ -1,5 +1,5 @@
 # Script to map the path of an Active Directory Computer.
-# mlogsdon 2022
+# mlogsdon 05/22
 
 Import-Module ActiveDirectory
 $PC = Read-Host "Enter PC Name: "
