@@ -1,3 +1,6 @@
+# Better version of my PC OU Mapper
+# mlogsdon 5/22
+
 $Msg = "Enter The PC You Would Like to Find"
 Function Map {
   param([String]$GetPC)
