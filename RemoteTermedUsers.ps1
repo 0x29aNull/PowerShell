@@ -1,4 +1,4 @@
-# Remote Termed Users
+# Script to check a remote network PC for termed accounts in Active Directory
 # mlogsdon 5/22
 
  Import-Module ActiveDirectory
